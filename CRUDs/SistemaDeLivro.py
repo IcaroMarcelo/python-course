@@ -70,7 +70,4 @@ while True:
     elif opcao == 5:
         break
     else:
-        print("opção inválida!")
-        
-        
-        
+        print("opção inválida!")      
